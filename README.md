@@ -20,7 +20,7 @@ Système de détection de fumée avec contrôle par SMS (SIM900 + Arduino)
 
 ---
 
-## 🔌 Câblage recommandé
+## 🔌 Câblage
 
 - MQ-2       → A0 (sortie analogique)
 - LED verte  → D7
